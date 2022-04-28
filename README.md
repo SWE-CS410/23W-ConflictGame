@@ -29,7 +29,7 @@ This is a repository for pull request and conflict practice
 
 1. Be sure you are in the directory for this project
 2. Type "**git status**" to make sure you are on your  **feature** branch and it is clean
-3. Type "**git pull --rebase origin main**" to pull the current copy of the main branch from the server and merge it into your feature branch
+3. Type "**git pull --rebase origin main**" or **git pull origin main** to pull the current copy of the main branch from the server and merge it into your feature branch
 4. Make whatever changes you need to the file so that all of the existing names are included in the list and your name is below all other names
 5. Finish the changes and Commit your changes
 6. Type "**git status**" to be sure you are on your feature branch and it is clean
