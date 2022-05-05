@@ -5,6 +5,9 @@
         
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
-      Oliver Waller	 |   o.waller@bellevuecollege.edu
+      Joshua O           |   joshua.o@bellevuecollege.edu
+      Stanley Hsieh	 |   hsiehs.hsieh@bellevuecollege.edu
+      Oliver Waller	 |   o.waller@bellevuecollege.edu       
+      Matthew Granger    |   matthew.granger@bellevuecollege.edu
+      Joe Prado          |   joe.prado@bellevuecollege.edu
       Yong Kim		 |   yongelliot.kim@bellevuecollege.edu
-    
