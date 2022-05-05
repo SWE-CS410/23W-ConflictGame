@@ -5,4 +5,5 @@
         
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
+      Joshua O           |   joshua.o@bellevuecollege.edu
     
