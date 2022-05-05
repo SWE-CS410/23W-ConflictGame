@@ -11,3 +11,4 @@
       Matthew Granger    |   matthew.granger@bellevuecollege.edu
       Joe Prado          |   joe.prado@bellevuecollege.edu
       Yong Kim		 |   yongelliot.kim@bellevuecollege.edu
+      Keitaro Hallberg   |   keitaro.hallberg@bellevuecollege.edu
