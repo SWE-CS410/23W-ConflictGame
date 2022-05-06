@@ -10,7 +10,6 @@
       Oliver Waller	 |   o.waller@bellevuecollege.edu       
       Matthew Granger    |   matthew.granger@bellevuecollege.edu
       Joe Prado          |   joe.prado@bellevuecollege.edu
-      
       Keitaro Hallberg   |   keitaro.hallberg@bellevuecollege.edu
       David Vandenbrouck |   dvandenbrouck@bellevuecollege.edu
       Elena Ochkina      |   elena.ochkina@bellevuecollege.edu 
@@ -18,6 +17,6 @@
       Yong Kim		 |   yongelliot.kim@bellevuecollege.edu
       Jason Noh          |   jaewon.noh@bellevuecollege.edu
       Daniel Oh          |   daniel.oh@bellevuecollege.edu
-      Tedros Tsegay          Tedros.Tsegya@bellevuecollege.edu
+      Tedros Tsegay      |   Tedros.Tsegya@bellevuecollege.edu
       Codey Hutton       |   Codey.hutton@bellevuecollege.edu
       Mohamed Elfergani  |   Mohamed.elfergani@bellevuecollege.edu 
