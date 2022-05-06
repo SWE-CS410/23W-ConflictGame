@@ -10,9 +10,10 @@
       Oliver Waller	 |   o.waller@bellevuecollege.edu       
       Matthew Granger    |   matthew.granger@bellevuecollege.edu
       Joe Prado          |   joe.prado@bellevuecollege.edu
-      Yong Kim		 |   yongelliot.kim@bellevuecollege.edu
+      
       Keitaro Hallberg   |   keitaro.hallberg@bellevuecollege.edu
       David Vandenbrouck |   dvandenbrouck@bellevuecollege.edu
       Elena Ochkina      |   elena.ochkina@bellevuecollege.edu 
       Saagar Ahluwalia   |   saagar.ahluwalia@bellevuecollege.edu
+      Yong Kim		 |   yongelliot.kim@bellevuecollege.edu
 
