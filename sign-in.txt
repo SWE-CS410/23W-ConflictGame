@@ -30,3 +30,4 @@
 	Thomas Wangia	 |   thomas.wangia@bellevuecollege.edu
 	Giang Ngo	 |   giang.ngo@bellevuecollege.edu
       Charles Biffin     |   charles.biffin@bellevuecollege.edu
+      Leo huang          |   leo.huang@bellevuecollege.edu
