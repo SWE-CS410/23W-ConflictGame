@@ -23,6 +23,7 @@
       David Harmon       |   d.harmon@bellevuecollege.edu
 	  Chris L Rackley	 |   christopher.liudahl@bellevuecollege.edu
 	Nao Mai		 |   kyle.mai@bellevuecollege.edu
+      Hyungmin Jeon     |     hyungmin.jeon@bellevuecollege.edu 
 <<<<<<< HEAD
       Hollie Fritz       |   hollie.fritz@bellevuecollege.edu
 =======
