@@ -10,7 +10,6 @@
       Oliver Waller	 |   o.waller@bellevuecollege.edu       
       Matthew Granger    |   matthew.granger@bellevuecollege.edu
       Joe Prado          |   joe.prado@bellevuecollege.edu
-      
       Keitaro Hallberg   |   keitaro.hallberg@bellevuecollege.edu
       David Vandenbrouck |   dvandenbrouck@bellevuecollege.edu
       Elena Ochkina      |   elena.ochkina@bellevuecollege.edu 
@@ -18,8 +17,21 @@
       Yong Kim		 |   yongelliot.kim@bellevuecollege.edu
       Jason Noh          |   jaewon.noh@bellevuecollege.edu
       Daniel Oh          |   daniel.oh@bellevuecollege.edu
-      Tedros Tsegay          Tedros.Tsegya@bellevuecollege.edu
+      Tedros Tsegay      |   Tedros.Tsegya@bellevuecollege.edu
       Codey Hutton       |   Codey.hutton@bellevuecollege.edu
       Jayden Yamada      |   jayden.yamada@bellevuecollege.edu
       Mohamed Elfergani  |   Mohamed.elfergani@bellevuecollege.edu 
+      David Harmon       |   d.harmon@bellevuecollege.edu
+	   Chris L Rackley	 |   christopher.liudahl@bellevuecollege.edu
+    	Nao Mai		 |   kyle.mai@bellevuecollege.edu
+      Hyungmin Jeon     |     hyungmin.jeon@bellevuecollege.edu 
+      Hollie Fritz       |   hollie.fritz@bellevuecollege.edu
+      Avni Mungra        |   avni.mungra@bellevuecollege.edu
+	    Thomas Wangia	 |   thomas.wangia@bellevuecollege.edu
+	    Giang Ngo	 |   giang.ngo@bellevuecollege.edu
+      Charles Biffin     |   charles.biffin@bellevuecollege.edu
+      Leo huang          |   leo.huang@bellevuecollege.edu
+      Jonida Durbaku     |   jonida.durbaku@bellevuecollege.edu
+      Masha Fitzgerald   |   mariia.fitzgerald@bellevuecollege.edu
+      Michael de Groot   |   michael.degroot@bellevuecollege.edu
       Jayden Yamada      |   jayden.yamada@bellevuecollege.edu
