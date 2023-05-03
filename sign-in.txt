@@ -4,7 +4,8 @@
         ... then commit, push your feature branch to GitHub, and create (or review) your pull request
         
        NAME              |   BC Email
+      
       Sara Farag         |   sara.farag@bellevuecollege.edu
-                         |
+      Jon Kaimmer        |   Jon.Kaimmer@bellevuecollege.edu
                          |
                          
