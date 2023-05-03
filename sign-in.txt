@@ -11,10 +11,15 @@
       Sara Farag         |   sara.farag@bellevuecollege.edu
       Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 834406bcea6cb4b7e7303e138b11de12389cffd3
 =======
       Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu
 >>>>>>> 60634e8a6ce055fa40d368b2e267c292e0fcb371
                          |
+=======
+      Ellis Lempriere    |   ellis.lempriere@bellevuecollege.edu
+      Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu
+>>>>>>> eb8553f388701f157679d8a47191bf7a0c620a78
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
                          
