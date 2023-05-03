@@ -6,5 +6,5 @@
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
                          |
-                         |
+      Ritesh Samal       |   ritesh.samal@bellevuecollege.edu
                          
