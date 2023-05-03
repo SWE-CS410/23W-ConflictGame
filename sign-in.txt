@@ -8,13 +8,10 @@
       Sara Farag         |   sara.farag@bellevuecollege.edu
       Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
       Ema Ikeda        	 |   ema.ikeda@bellevuecollege.edu
-      Ema Ikeda        	 |   ema.ikeda@bellevuecollege.edu
       Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
       Ellis Lempriere    |   ellis.lempriere@bellevuecollege.edu
-      Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu                    
-      Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu
+      Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu 
       Ritesh Samal       |   ritesh.samal@bellevuecollege.edu
-      Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
       Will Eand          |   will.eand@belleuvecollege.edu
       Mihai Siia         |   mihai.siia@bellevuecollege.edu
