@@ -11,12 +11,14 @@
       Ema Ikeda        	 |   ema.ikeda@bellevuecollege.edu
       Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
       Ellis Lempriere    |   ellis.lempriere@bellevuecollege.edu
+      Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu                    
       Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu
       Ritesh Samal       |   ritesh.samal@bellevuecollege.edu
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
       Will Eand          |   will.eand@belleuvecollege.edu
       Jon Kaimmer        |   Jon.Kaimmer@bellevuecollege.edu
+      Yusa Kaya          |   yusa.kaya@bellevuecollege.edu
       Nadav Horowitz     |   nadav.horowitz@bellevuecollege.edu
       Adrian Turcan      |   adrian.turcan@bellevuecollege.edu
       Chonglin Guan      |   chonglin.guan@bellevuecollege.edu
