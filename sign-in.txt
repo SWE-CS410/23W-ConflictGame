@@ -5,14 +5,13 @@
         
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
-<<<<<<< HEAD
+      Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
       Ema Ikeda        	 |   ema.ikeda@bellevuecollege.edu
-                         |
-=======
+      Ema Ikeda        	 |   ema.ikeda@bellevuecollege.edu
       Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
       Ellis Lempriere    |   ellis.lempriere@bellevuecollege.edu
       Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
+      Will Eand          |   will.eand@belleuvecollege.edu
+      Jon Kaimmer        |   Jon.Kaimmer@bellevuecollege.edu
       Chonglin Guan      |   chonglin.guan@bellevuecollege.edu
->>>>>>> eb8553f388701f157679d8a47191bf7a0c620a78
-                         
