@@ -11,7 +11,6 @@
       Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
       Ellis Lempriere    |   ellis.lempriere@bellevuecollege.edu
       Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu
-                         |
       Ritesh Samal       |   ritesh.samal@bellevuecollege.edu
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
@@ -20,3 +19,4 @@
       Nadav Horowitz     |   nadav.horowitz@bellevuecollege.edu
       Adrian Turcan      |   adrian.turcan@bellevuecollege.edu
       Chonglin Guan      |   chonglin.guan@bellevuecollege.edu
+      Judy Yang		       |   jeremy.yang@bellevuecolleg.edu
