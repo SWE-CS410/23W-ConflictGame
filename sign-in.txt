@@ -1,15 +1,15 @@
+
 //TODO: Be sure you have pulled develop and merged it into your feature branch 
         (created a feature branch with your name from develop if you don't have one yet)
 //TODO: Edit this document to put your name and  BC email below the last name on the list below ... 
         ... then commit, push your feature branch to GitHub, and create (or review) your pull request
         
        NAME              |   BC Email
-<<<<<<< HEAD
-      Wesley Eand         |   wesley.eand@bellevuecollege.edu
-                         |
+
 =======
       Sara Farag         |   sara.farag@bellevuecollege.edu
       Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 834406bcea6cb4b7e7303e138b11de12389cffd3
@@ -21,5 +21,23 @@
       Ellis Lempriere    |   ellis.lempriere@bellevuecollege.edu
       Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu
 >>>>>>> eb8553f388701f157679d8a47191bf7a0c620a78
+=======
+      Ema Ikeda        	 |   ema.ikeda@bellevuecollege.edu
+      Ema Ikeda        	 |   ema.ikeda@bellevuecollege.edu
+      Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
+      Ellis Lempriere    |   ellis.lempriere@bellevuecollege.edu
+      Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu
+      Ritesh Samal       |   ritesh.samal@bellevuecollege.edu
+>>>>>>> d5974ab57baa6b58f51cb16b2f380cd0a1a4c60e
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
-                         
+      Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
+      Will Eand          |   will.eand@belleuvecollege.edu
+      Jon Kaimmer        |   Jon.Kaimmer@bellevuecollege.edu
+      Nadav Horowitz     |   nadav.horowitz@bellevuecollege.edu
+      Adrian Turcan      |   adrian.turcan@bellevuecollege.edu
+      Chonglin Guan      |   chonglin.guan@bellevuecollege.edu
+      Judy Yang		       |   jeremy.yang@bellevuecolleg.edu
+      Hester Liu         |   tong.liu@bellevuecollege.edu
+      Aaron Bird         |   aaron.bird@bellevucollege.edu
+	  Wesley Eand 		 | wesley.eand@bellevuecollege.edu
+	  
