@@ -1,3 +1,4 @@
+
 //TODO: Be sure you have pulled develop and merged it into your feature branch 
         (created a feature branch with your name from develop if you don't have one yet)
 //TODO: Edit this document to put your name and  BC email below the last name on the list below ... 
@@ -11,6 +12,7 @@
       Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
       Ellis Lempriere    |   ellis.lempriere@bellevuecollege.edu
       Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu                    
+      Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu
       Ritesh Samal       |   ritesh.samal@bellevuecollege.edu
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
@@ -20,3 +22,6 @@
       Nadav Horowitz     |   nadav.horowitz@bellevuecollege.edu
       Adrian Turcan      |   adrian.turcan@bellevuecollege.edu
       Chonglin Guan      |   chonglin.guan@bellevuecollege.edu
+      Judy Yang		       |   jeremy.yang@bellevuecolleg.edu
+      Hester Liu         |   tong.liu@bellevuecollege.edu
+      Aaron Bird         |   aaron.bird@bellevucollege.edu
