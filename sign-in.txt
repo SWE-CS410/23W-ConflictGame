@@ -21,6 +21,5 @@
       Adrian Turcan      |   adrian.turcan@bellevuecollege.edu
       Chonglin Guan      |   chonglin.guan@bellevuecollege.edu
       Judy Yang		       |   jeremy.yang@bellevuecolleg.edu
-      
-
       Hester Liu         |   tong.liu@bellevuecollege.edu
+      Aaron Bird         |   aaron.bird@bellevucollege.edu
