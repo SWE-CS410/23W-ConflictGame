@@ -18,4 +18,5 @@
       Will Eand          |   will.eand@belleuvecollege.edu
       Jon Kaimmer        |   Jon.Kaimmer@bellevuecollege.edu
       Nadav Horowitz     |   nadav.horowitz@bellevuecollege.edu
+      Adrian Turcan      |   adrian.turcan@bellevuecollege.edu
       Chonglin Guan      |   chonglin.guan@bellevuecollege.edu
