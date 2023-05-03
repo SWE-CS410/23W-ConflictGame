@@ -4,7 +4,12 @@
         ... then commit, push your feature branch to GitHub, and create (or review) your pull request
         
        NAME              |   BC Email
+<<<<<<< HEAD
       Wesley Eand         |   wesley.eand@bellevuecollege.edu
                          |
+=======
+      Sara Farag         |   sara.farag@bellevuecollege.edu
+      Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
+>>>>>>> 834406bcea6cb4b7e7303e138b11de12389cffd3
                          |
                          
