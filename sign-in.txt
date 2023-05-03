@@ -6,6 +6,7 @@
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
       Nicholas Cudd      |   nicholas.cudd@bellevuecollege.edu
+      Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu
                          |
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
                          
