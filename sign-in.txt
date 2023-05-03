@@ -5,6 +5,7 @@
         
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
-      Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
                          |
+                         |
+      Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
                          
