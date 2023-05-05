@@ -15,6 +15,7 @@
       Isaac Witherspoon  |   isaac.witherspoon@bellevuecollege.edu 
       Ritesh Samal       |   ritesh.samal@bellevuecollege.edu
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
+	Brandon Bergan     |   brandon.bergan@bellevuecollege.edu                     
       Hailey Mandal      |   hailey.mandal@bellevuecollege.edu
       Will Eand          |   will.eand@belleuvecollege.edu
       Mihai Siia         |   mihai.siia@bellevuecollege.edu
@@ -23,7 +24,7 @@
       Nadav Horowitz     |   nadav.horowitz@bellevuecollege.edu
       Adrian Turcan      |   adrian.turcan@bellevuecollege.edu
       Chonglin Guan      |   chonglin.guan@bellevuecollege.edu
-      Judy Yang		       |   jeremy.yang@bellevuecolleg.edu
+      Judy Yang		 |   jeremy.yang@bellevuecolleg.edu
       Hester Liu         |   tong.liu@bellevuecollege.edu
       Aaron Bird         |   aaron.bird@bellevucollege.edu
       Jonathan Jarman    |   jonathan.jarman@bellevuecollege.edu
