@@ -1,4 +1,4 @@
-
+626200
 //TODO: Be sure you have pulled develop and merged it into your feature branch 
         (created a feature branch with your name from develop if you don't have one yet)
 //TODO: Edit this document to put your name and  BC email below the last name on the list below ... 
@@ -32,3 +32,4 @@
       Neil Wilkins       |   neil.wilkins@bellevuecollege.edu
       Sean Michael	 |   sean.michael@bellevuecollege.edu
       Karan Bayat        |   bayat.karan@bellevuecollege.edu
+      Katherine Applegate|   katherine.applegate@bellevuecollege.edu
